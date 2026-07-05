@@ -25,7 +25,6 @@ I specialize in bridging the gap between concept and production-grade software, 
 
 ### 🔭 Current Work
 
-- **[Ghost](https://github.com/verf1CT/Ghost)** — Python-based intelligent system
 - **[Interra](https://github.com/verf1CT/Interra)** — Dart-powered cross-platform application
 - Building robust, production-ready solutions
 
