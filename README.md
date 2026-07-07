@@ -2,7 +2,7 @@
 
 # Mikhail Meshkoy — `verf1CT`
 
-### full-stack builder · apps · web · bots · everything digital · **ship it** 🚀
+### From idea to production — solo, full-stack, fast ⚡
 
 **If it can be built, I build it. If it can ship, it ships today.**
 
@@ -55,17 +55,6 @@ Cloud       AWS · GCP · Vercel
 
 - **[Interra](https://github.com/verf1CT/Interra)** — cross-platform provider app built in Dart / Flutter
 - Turning ideas into production-ready software, fast
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=verf1CT&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verf1CT&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
 
 ---
 
