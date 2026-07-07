@@ -59,6 +59,20 @@ Cloud       AWS · GCP · Vercel
 
 ---
 
+## 🐍 Watch my contributions get eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/verf1CT/verf1CT/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/verf1CT/verf1CT/output/github-snake.svg">
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/verf1CT/verf1CT/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 📫 Let's build something
 
 Got an idea? A messy problem? A thing that "probably can't be done"?
@@ -72,6 +86,9 @@ Open an issue on any repo or reach out — I'm always up for:
 
 **Idea → shipped. That's the whole process.** ✨
 
-🌐 [vrfct.ru](https://vrfct.ru)
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/verf1ct)
+[![Website](https://img.shields.io/badge/vrfct.ru-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vrfct.ru)
 
 </div>
