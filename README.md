@@ -59,16 +59,6 @@ Cloud       AWS · GCP · Vercel
 
 ---
 
-## 📊 Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/verf1CT/verf1CT/main/assets/metrics.svg" alt="GitHub metrics" width="100%">
-
-</div>
-
----
-
 ## 🧊 My year in 3D
 
 <div align="center">
