@@ -52,16 +52,6 @@ Cloud       AWS · GCP · Vercel
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=verf1CT&theme=onedark&column=6&margin-w=8&margin-h=8&no-frame=true&hide=STARS,FOLLOWERS,REPOSITORIES)](https://github.com/verf1CT)
-
-</div>
-
----
-
 ## 🔥 Currently shipping
 
 - **[Interra](https://github.com/verf1CT/Interra)** — cross-platform provider app built in Dart / Flutter
