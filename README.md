@@ -1,8 +1,8 @@
 <div align="center">
 
-# Mikhail Meshkoy — `verf1CT`
+<img src="https://raw.githubusercontent.com/verf1CT/verf1CT/main/assets/banner.svg" alt="Mikhail Meshkoy — verf1CT · From idea to production, solo, full-stack, fast" width="100%">
 
-### From idea to production — solo, full-stack, fast ⚡
+<br>
 
 **If it can be built, I build it. If it can ship, it ships today.**
 
@@ -56,6 +56,26 @@ Cloud       AWS · GCP · Vercel
 
 - **[Interra](https://github.com/verf1CT/Interra)** — cross-platform provider app built in Dart / Flutter
 - Turning ideas into production-ready software, fast
+
+---
+
+## 📊 Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/verf1CT/verf1CT/main/assets/metrics.svg" alt="GitHub metrics" width="100%">
+
+</div>
+
+---
+
+## 🧊 My year in 3D
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/verf1CT/verf1CT/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph">
+
+</div>
 
 ---
 
