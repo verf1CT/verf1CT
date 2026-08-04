@@ -76,20 +76,13 @@ Cloud       AWS · GCP · Vercel
 
 ---
 
-## 🐾 My Commit Pet & Streak Stats
+## 🐾 My Commit Pet
 
 <div align="center">
 
 <!-- GitAnimals Pet Widget -->
 <a href="https://gitanimals.org">
   <img src="https://render.gitanimals.org/lines/verf1CT" alt="GitAnimals line" />
-</a>
-
-<br><br>
-
-<!-- GitHub Streak Stats -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=verf1CT&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </a>
 
 </div>
