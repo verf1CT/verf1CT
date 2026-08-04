@@ -76,7 +76,7 @@ Cloud       AWS · GCP · Vercel
 
 ---
 
-## 🐾 My Commit Pet & Languages Stats
+## 🐾 My Commit Pet & Streak Stats
 
 <div align="center">
 
@@ -87,8 +87,10 @@ Cloud       AWS · GCP · Vercel
 
 <br><br>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verf1CT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages Stats" />
+<!-- GitHub Streak Stats -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=verf1CT&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+</a>
 
 </div>
 
