@@ -81,8 +81,13 @@ Cloud       AWS · GCP · Vercel
 <div align="center">
 
 <!-- GitAnimals Pet Widget -->
-<a href="https://gitanimals.org">
-  <img src="https://render.gitanimals.org/lines/verf1CT" alt="GitAnimals line" />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=verf1CT&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/verf1CT?pet-id=872427313239796958"
+    width="600"
+    height="120"
+    alt="GitAnimals Pet"
+  />
 </a>
 
 </div>
