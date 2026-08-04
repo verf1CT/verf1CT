@@ -2,9 +2,26 @@
 
 <img src="https://raw.githubusercontent.com/verf1CT/verf1CT/main/assets/banner.svg" alt="Mikhail Meshkoy — verf1CT · From idea to production, solo, full-stack, fast" width="100%">
 
-<br>
+<br><br>
 
-**If it can be built, I build it. If it can ship, it ships today.**
+<!-- 🖥️ macOS Terminal CLI Banner -->
+<table border="0" cellspacing="0" cellpadding="0" style="border-radius: 10px; overflow: hidden; background: #0D1117; border: 1px solid #30363D; margin-bottom: 20px;">
+  <tr>
+    <td style="background: #161B22; padding: 8px 14px; border-bottom: 1px solid #30363D;" align="left">
+      <span style="color: #FF5F56;">●</span> 
+      <span style="color: #FFBD2E;">●</span> 
+      <span style="color: #27C93F;">●</span> 
+      <code style="color: #8B949E; margin-left: 10px; font-family: monospace; font-size: 13px;">bash — verf1CT@macbook-pro:~</code>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px 20px;" align="center">
+      <a href="https://vrfct.ru">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=580&height=50&lines=verf1CT%40prod%3A~%2B%24%2Bship_to_production%2B--fast;%3E%2BIf%2Bit%2Bcan%2Bbe%2Bbuilt%2C%2Bit%2Bships%2Btoday.%2B%F0%9F%9A%80;%3E%2BStatus%3A%2BFull-Stack%2BBuilder%2B%26%2BSolo%2BShipper;%3E%2BStack%3A%2BPython%2B%C2%B7%2BTypeScript%2B%C2%B7%2BDart%2B%C2%B7%2BDocker" alt="verf1CT CLI Terminal" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -56,6 +73,24 @@ Cloud       AWS · GCP · Vercel
 
 - **[Interra](https://github.com/verf1CT/Interra)** — cross-platform provider app built in Dart / Flutter
 - Turning ideas into production-ready software, fast
+
+---
+
+## 🐾 My Commit Pet & Languages Stats
+
+<div align="center">
+
+<!-- GitAnimals Pet Widget -->
+<a href="https://gitanimals.org">
+  <img src="https://render.gitanimals.org/lines/verf1CT" alt="GitAnimals line" />
+</a>
+
+<br><br>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verf1CT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages Stats" />
+
+</div>
 
 ---
 
