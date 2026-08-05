@@ -134,6 +134,7 @@ Open an issue on any repo or reach out — I'm always up for:
 <br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/verf1ct)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@vrfct.ru)
 [![Website](https://img.shields.io/badge/vrfct.ru-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vrfct.ru)
 
 </div>
