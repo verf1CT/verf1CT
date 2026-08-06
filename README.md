@@ -72,6 +72,7 @@ Cloud       AWS · GCP · Vercel
 ## 🔥 Currently shipping
 
 - **[Interra](https://github.com/verf1CT/Interra)** — cross-platform provider app built in Dart / Flutter
+- **[Flutter Fast Build](https://github.com/marketplace/actions/flutter-fast-build)** — official GitHub Marketplace action for automated CI/CD pipelines
 - Turning ideas into production-ready software, fast
 
 ---
